@@ -2,7 +2,6 @@
 
 ### Using:
 
-- Yarn
 - Jest
 - ESLint
 - Prettier
@@ -10,5 +9,17 @@
 # Installation
 
 ```bash
-yarn install
+npm install
+```
+
+# Usage
+
+## Run Tests
+```bash
+npm test
+```
+
+### Watching tests
+```bash
+npm run test:watch
 ```
