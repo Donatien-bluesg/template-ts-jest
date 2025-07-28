@@ -2,6 +2,3 @@ dist
 node_modules
 *.local
 *.log
-
-# IDE Config files
-.idea
